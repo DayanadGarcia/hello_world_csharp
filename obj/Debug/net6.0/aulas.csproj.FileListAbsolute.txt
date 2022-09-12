@@ -1,0 +1,15 @@
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/bin/Debug/net6.0/aulas
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/bin/Debug/net6.0/aulas.deps.json
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/bin/Debug/net6.0/aulas.runtimeconfig.json
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/bin/Debug/net6.0/aulas.dll
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/bin/Debug/net6.0/aulas.pdb
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.csproj.AssemblyReference.cache
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.GeneratedMSBuildEditorConfig.editorconfig
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.AssemblyInfoInputs.cache
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.AssemblyInfo.cs
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.csproj.CoreCompileInputs.cache
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.dll
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/refint/aulas.dll
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.pdb
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/aulas.genruntimeconfig.cache
+/home/dayana/Documents/turma-17/curso-csharp/aula-1/obj/Debug/net6.0/ref/aulas.dll
